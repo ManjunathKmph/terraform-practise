@@ -6,6 +6,7 @@
 * terraform plan -- Show an execution plan
 * terraform apply -- Builds an infrastructure
 * terraform show -- Inspect the terraform state
+* terraform destroy -- To delete the resources created when we applied the terraform to create it.
 
 # In order separate two environments, we need to use workspace to separate each other
 * terraform workspace new dev -- To create new dev workspace
